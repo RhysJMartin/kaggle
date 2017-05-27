@@ -1,0 +1,36 @@
+inv_label_map:
+  0: road
+  1: cultivation
+  2: agriculture
+  3: blow_down
+  4: water
+  5: bare_ground
+  6: blooming
+  7: cloudy
+  8: artisinal_mine
+  9: habitation
+  10: haze
+  11: clear
+  12: partly_cloudy
+  13: primary
+  14: slash_burn
+  15: conventional_mine
+  16: selective_logging
+label_map:
+  agriculture: 2
+  artisinal_mine: 8
+  bare_ground: 5
+  blooming: 6
+  blow_down: 3
+  clear: 11
+  cloudy: 7
+  conventional_mine: 15
+  cultivation: 1
+  habitation: 9
+  haze: 10
+  partly_cloudy: 12
+  primary: 13
+  road: 0
+  selective_logging: 16
+  slash_burn: 14
+  water: 4
